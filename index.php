@@ -6,7 +6,6 @@ and open the template in the editor.
 -->
 <html ng-app="todoApp">
     <head>
-       
         <title>To Do App</title>
         <script src="angular.min.js"></script>
         <script src="app.js"></script>
